@@ -1,4 +1,6 @@
-# NASTRAN-95 for Windows 10
+# NASTRAN-95
+
+(Under Windows 10)
 
 # 1 Folder names explained
 
