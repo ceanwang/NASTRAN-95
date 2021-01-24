@@ -33,9 +33,9 @@ utility - tools
 3. Set C:\NASTRAN-95 into Windows 10's PATH
 4. Add RFDIR variable and set its value as C:\NASTRAN-95\rf 
 
-# 3 Run nastran.exe
+# 3 Quick start guide
 
-For example you want to solve case C:\NASTRAN-95\inp\d01011a.inp
+For example you want to run nastran.exe to solve case C:\NASTRAN-95\inp\d01011a.inp
 
 1. Run CMD.exe and change to C:\NASTRAN-95\inp
 6. Key in 
