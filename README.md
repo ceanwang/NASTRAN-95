@@ -42,7 +42,7 @@ For example you want to run nastran.exe to solve case C:\NASTRAN-95\inp\d01011a.
 
    nastran d01011a.inp
    
-# 4 tools explained
+# 4 Tools explained
 
 # 4.1 nasthelp.exe
 
