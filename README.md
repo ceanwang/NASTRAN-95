@@ -38,7 +38,7 @@ utility - tools
 For example you want to run nastran.exe to solve case C:\NASTRAN-95\inp\d01011a.inp
 
 1. Run CMD.exe and change to C:\NASTRAN-95\inp
-6. Key in 
+6. In command line, Key in: 
 
    nastran d01011a.inp
    
