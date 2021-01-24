@@ -1,3 +1,54 @@
+# NASTRAn-95 for Windows 10
+
+# 1 Folder names explained
+
+alt     - Alternation source
+bd      - Bulk data source
+bin     - Binary
+demoout - demo case output
+future  - source not used now
+inp     - demo case file
+mds     - machine depended source
+mis     - machine independed source
+rf      - Rigid frame
+um      - user manual
+utility - tools
+
+# 2 Install
+
+1. Download as ZIP. 
+2. Unzip to C:\NASTRAIN-95
+3. Set C:\NASTRAIN-95 into Windows 10's PATH
+4. Add RFDIR variable and set its value as C:\NASTRAIN-95\rf 
+
+# 3 Run nastran.exe
+
+For example you want to solve case C:\NASTRAIN-95\inp\d01011a.inp
+
+1. Run CMD.exe and change to C:\NASTRAIN-95\inp
+6. Key in 
+   nastran d01011a.inp
+   
+# 4 tools explained
+
+# 4.1 nasthelp.exe
+
+Change to um folder, double click nasthelp.exe to start
+
+# 4.2 nastplot.exe
+
+When you put plot commands into inp file, nastran could generate plot file. 
+
+# 4.3 ff.exe
+
+# 4.4 chkfil.exe
+
+
+
+
+
+# Original ReadMe
+
 # NASTRAN-95
 
 NASTRAN has been released under the  
