@@ -48,7 +48,7 @@ Change to um folder, double click nasthelp.exe to start
 
 # 4.2 nastplot.exe
 
-When you put plot commands into inp file, nastran could generate plot file. 
+When you put plot commands into inp file, nastran could generates plot file. 
 
 # 4.3 ff.exe
 
