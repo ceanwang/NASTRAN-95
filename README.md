@@ -3,15 +3,25 @@
 # 1 Folder names explained
 
 alt     - Alternation source
+
 bd      - Bulk data source
+
 bin     - Binary
+
 demoout - demo case output
+
 future  - source not used now
+
 inp     - demo case file
+
 mds     - machine depended source
+
 mis     - machine independed source
+
 rf      - Rigid frame
+
 um      - user manual
+
 utility - tools
 
 # 2 Install
