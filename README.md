@@ -37,6 +37,7 @@ For example you want to solve case C:\NASTRAN-95\inp\d01011a.inp
 
 1. Run CMD.exe and change to C:\NASTRAN-95\inp
 6. Key in 
+
    nastran d01011a.inp
    
 # 4 tools explained
