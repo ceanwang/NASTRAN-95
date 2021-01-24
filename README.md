@@ -27,15 +27,15 @@ utility - tools
 # 2 Install
 
 1. Download as ZIP. 
-2. Unzip to C:\NASTRAIN-95
-3. Set C:\NASTRAIN-95 into Windows 10's PATH
-4. Add RFDIR variable and set its value as C:\NASTRAIN-95\rf 
+2. Unzip to C:\NASTRAN-95
+3. Set C:\NASTRAN-95 into Windows 10's PATH
+4. Add RFDIR variable and set its value as C:\NASTRAN-95\rf 
 
 # 3 Run nastran.exe
 
-For example you want to solve case C:\NASTRAIN-95\inp\d01011a.inp
+For example you want to solve case C:\NASTRAN-95\inp\d01011a.inp
 
-1. Run CMD.exe and change to C:\NASTRAIN-95\inp
+1. Run CMD.exe and change to C:\NASTRAN-95\inp
 6. Key in 
    nastran d01011a.inp
    
